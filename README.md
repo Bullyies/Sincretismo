@@ -15,6 +15,6 @@
 ## 👥 Integrantes
 
 - Baltazar Jiménez Juan Pablo  
-- Cárdenas Puente Jorge Rafael  
+- [Cardenas Puente Jorge Rafael](Cardenas%20Puente%20Jorge%20Rafael/) 
 - Flores Gómez Jonathan Alejandro  
 - Valencia Massaky Santiago  
