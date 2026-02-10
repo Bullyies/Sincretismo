@@ -14,6 +14,6 @@ Más creativo y diseñador del mundo del videojuego.
 
 ## Foto personal
 
-![Foto personal](FotoCara.jpg)
+![Foto personal](FotoCara.jpeg)
 
 ---
