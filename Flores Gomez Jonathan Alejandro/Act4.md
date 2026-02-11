@@ -28,4 +28,4 @@ Desde nuestra perspectiva de ingeniería, estos modelos se pueden integrar direc
 
 ### **Conclusión Individual**
 
-Como estudiante de ingeniería, leer estos modelos me cambió el chip. Antes pensaba que hacer un juego "bueno" era solo cuestión de creatividad o suerte, pero GAP y PLAY demuestran que hay una estructura lógica detrás. La clave no es solo que el software funcione sin errores (QA tradicional), sino diseñar cómo el usuario aprende a usarlo mientras se divierte. Al final del día, si el jugador no siente que tiene el control o no entiende qué hacer en los primeros 10 minutos, nuestro código, por más complejo que sea, no servirá de nada. 
+CoAntes pensaba que hacer un juego "bueno" era solo cuestión de creatividad o suerte, pero GAP y PLAY demuestran que hay una estructura lógica detrás. Al final del día, si el jugador no siente que tiene el control o no entiende qué hacer en los primeros 10 minutos, nuestro código, por más complejo que sea, no servirá de nada. 
